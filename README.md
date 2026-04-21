@@ -22,4 +22,4 @@ Phishing Attack Leading to Credential Compromise
 - GDPR
 
 ## 📄 Document
-[View Incident Response Plan](./incident-response-plan-finsecure.pdf)
+[View Incident Response Plan](Cyber Incident Response Plan – FinSecure Ltd.pdf)
