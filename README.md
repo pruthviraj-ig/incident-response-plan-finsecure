@@ -21,4 +21,5 @@ Phishing Attack Leading to Credential Compromise
 - NIST Incident Response Lifecycle
 - GDPR
 
-
+##  Document
+[View Incident Response Plan](./incident-response-plan-finsecure.pdf)
